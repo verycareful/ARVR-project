@@ -1,10 +1,15 @@
 # STELLAR BLITZ: 2D Space Shooter in Unity
-
-[![Unity 6](https://img.shields.io/badge/Unity-6000.5.10f1%20(LTS)-black?style=flat-square)](https://unity.com/)
+<!-- Engine & rendering -->
+[![Unity 6](https://img.shields.io/badge/Unity-6000.5.10f1%20(LTS)-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
 [![Render Pipeline](https://img.shields.io/badge/Render%20Pipeline-URP%2017.5-blue?style=flat-square)](https://unity.com/srp/universal-render-pipeline)
 [![Input System](https://img.shields.io/badge/Input-Unity%20New%20Input%20System-orange?style=flat-square)](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.20/manual/index.html)
-[![Language](https://img.shields.io/badge/C%23-10.0%20%2F%20.NET%20Standard%202.1-purple?style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+<!-- Language -->
+[![Language](https://img.shields.io/badge/C%23-10.0%20%2F%20.NET%20Standard%202.1-purple?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+<!-- Academic -->
 [![Course](https://img.shields.io/badge/Course-21CSE353T%20AVMR-green?style=flat-square)](#academic-information)
+<!-- Project -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![Status: Archived](https://img.shields.io/badge/Status-Archived-lightgrey?style=flat-square)](.)
 
 Stellar Blitz is a wave-based 2D arcade space shooter developed in Unity 6. The architecture is completely self-bootstrapping from code, utilizing in-memory procedural sprite generation on Texture2D buffers, deterministic 2D kinematic trigger physics, multi-layer parallax scrolling starfields, dynamic particle explosion systems, and an adaptive ScreenSpaceOverlay Canvas UI.
 
@@ -114,3 +119,17 @@ Assets/SpaceShooter/Scripts/
 ## Academic Notice
 
 This project was developed by Sricharan Suresh (Register No: RA2311003040063) for the course 21CSE353T: Augmented, Virtual and Mixed Reality at SRM Institute of Science and Technology.
+
+---
+
+## License
+
+Copyright © 2026 Sricharan Suresh (github.com/verycareful)
+
+This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**.
+You may use, copy, modify, merge, publish, distribute, sublicense and sell copies
+of this software, including commercially, provided the copyright notice and this
+permission notice are included in all copies or substantial portions of it. The
+software is provided as is, without warranty of any kind.
+
+See the [LICENSE](LICENSE) file for the full license text.
